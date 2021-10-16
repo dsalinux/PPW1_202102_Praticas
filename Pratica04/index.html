@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Prática 04</title>
+    <link rel="stylesheet" href="/css/estilo.css">
+</head>
+<body>
+    <img src="/imagens/logo.png" alt="Logo IF">
+    <form>
+        <label for="nome">Nome</label>
+        <input id="nome" type="text"/>
+        <br/>
+        <label for="sobrenome">Sobrenome</label>
+        <input id="sobrenome" type="text"/>
+        <br/>
+        <label for="email">E-mail</label>
+        <input id="email" type="email"/>
+        <br/>
+        <label for="endereco">Endereço</label>
+        <input id="endereco" type="text"/>
+        <br/>
+        <label for="uf">Estado</label>
+        <select id="uf">
+            <option value="df">Distrito Federal</option>
+            <option value="go">Goiás</option>
+            <option value="mg">Minas Gerais</option>
+            <option value="sp">São Paulo</option>
+            <option value="rj">Rio de Janeiro</option>
+        </select>
+        <br/>
+        <label for="sexo">Sexo</label>
+        <input name="sexo" id="masculino" type="radio" value="masculino"/>
+        <label for="masculino">Masculino</label>
+        <input name="sexo" id="feminino" type="radio" value="feminino"/>
+        <label for="feminino">Feminino</label>
+        <input name="sexo" id="outros" type="radio" value="outros"/>
+        <label for="outros">outros</label>
+        <br/>
+        <label for="datanacimento">Data Nascimento</label>
+        <input id="datanacimento" type="date" value=""/>
+        <br/>
+        <label for="foto">Foto do perfil</label>
+        <input id="foto" type="file"/>
+        <br/>
+        <input id="ofertas" checked="checked" type="checkbox" value=""/>
+        <label for="ofertas">Receber Ofertas</label>
+        <br/>
+        <br/>
+        <input type="reset" value="Limpar"/>
+        <input type="submit" value="Enviar"/>
+    </form>
+    <br/>
+    <table>
+        <tr>
+            <th>Nome</th>
+            <th>Email</th>
+            <th>Estado</th>
+        </tr>
+        <tr>
+            <td>Danilo Souza</td>
+            <td>daniloalmeida@iftm.edu.br</td>
+            <td>MG</td>
+        </tr>
+        <tr>
+            <td>João da Silva</td>
+            <td>joao@gmail.com</td>
+            <td>MG</td>
+        </tr>
+        <tr>
+            <td>Maria Rosa</td>
+            <td>maria@hotmail.com</td>
+            <td>DF</td>
+        </tr>
+    </table>
+</body>
+</html>

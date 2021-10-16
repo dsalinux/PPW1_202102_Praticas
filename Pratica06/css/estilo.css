@@ -1,0 +1,82 @@
+html, body, .empacotador {
+    margin: 0px;
+    min-height: 100%;
+}
+.empacotador {
+    position: relative;
+}
+.principal {
+    min-height: calc(100vh - 60px - 60px);
+    padding: 10px;
+    box-sizing: border-box;
+}
+.navegacao {
+    height: 60px;
+    background-color: #eeeff1;
+    z-index: 100;
+}
+.navegacao .logo {
+    float: left;
+    height: 40px;
+    padding: 10px 30px;
+}
+.menu {
+    list-style: none;
+    padding: 0;
+    margin: 0; 
+    float: left
+}
+.menu > li {
+    float: left;
+}
+.menu > li > a {
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 60px;
+    display: block;
+    color: black;
+    text-decoration: none;
+    line-height: 60px;
+    transition-duration: 300ms;
+}
+.menu li a:hover {
+    background-color: #41a153;
+}
+.menu li ul {
+    position: absolute;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background-color: #eeeff1;
+    display: none;
+    box-shadow: 1px 1px 3px black;
+    z-index: 90;
+}
+.menu li:hover ul {
+    display: block;
+}
+.menu li ul li a {
+    padding: 0px 15px;
+    height: 40px;
+    display: block;
+    color: black;
+    text-decoration: none;
+    line-height: 40px;
+    transition-duration: 300ms;
+}
+
+.anuncio {
+    width: 300px;
+    height: 200px;
+    background-color: darkorange;
+    position: fixed;
+    right: 100px;
+    top: 100px;
+}
+
+#rodape {
+    background-color: #41a153;
+    padding: 20px 10px;
+    height: 60px;
+    box-sizing: border-box;
+}

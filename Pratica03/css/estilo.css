@@ -1,0 +1,23 @@
+p {color: red}
+h1 {
+    color: #0f0;
+    background-color: black;
+}
+
+.promocao {
+    background-color: yellow;
+    border: 2px solid red;
+}
+.promocao h2 {
+    text-align: center;
+}
+.promocao p {
+    color: black;
+    font-size: 1.2em;
+}
+.promocao .preco {
+    color: #fff;
+    background-color: red;
+    font-size: 2em;
+    text-align: right;
+}
