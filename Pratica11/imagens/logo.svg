@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="140.13771"
+   height="50"
+   viewBox="0 0 37.078102 13.229167"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (eb90963e84, 2021-10-02)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/danilo/Dropbox/IFTM-Paracatu/Aulas/2021-02/01_PPW1/PPW1_202102_Praticas/Pratica11/imagens/logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.2810466"
+     inkscape:cx="35.127528"
+     inkscape:cy="33.956611"
+     inkscape:window-width="2512"
+     inkscape:window-height="1022"
+     inkscape:window-x="48"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-30.243128,-51.529984)">
+    <g
+       id="g23186"
+       transform="matrix(0.39476721,0,0,0.39476721,18.304133,31.187637)">
+      <circle
+         style="fill:#0088aa;stroke-width:2"
+         id="path2124"
+         cx="46.998783"
+         cy="68.285637"
+         r="16.755655" />
+      <text
+         xml:space="preserve"
+         style="font-size:14.9409px;line-height:0.95;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#0088aa;stroke-width:0.264583"
+         x="65.344597"
+         y="67.184097"
+         id="text3074"><tspan
+           sodipodi:role="line"
+           id="tspan3072"
+           style="fill:#0088aa;stroke-width:0.264583"
+           x="65.344597"
+           y="67.184097">Sistema</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#0088aa;stroke-width:0.264583"
+           x="65.344597"
+           y="81.377953"
+           id="tspan3076">Vendas</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:25.0031px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:-0.318789px;word-spacing:-0.0312541px;fill:#ffffff;stroke-width:0.264583"
+         x="34.729923"
+         y="76.160149"
+         id="text8870"><tspan
+           sodipodi:role="line"
+           id="tspan8868"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Keraleeyam;-inkscape-font-specification:Keraleeyam;fill:#ffffff;stroke-width:0.264583"
+           x="34.729923"
+           y="76.160149">SV</tspan></text>
+      <path
+         style="fill:#00aad4;stroke:#0088aa;stroke-width:1.565;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 46.47038,52.331564 H 104.5751"
+         id="path21549" />
+      <path
+         style="fill:#00aad4;stroke:#0088aa;stroke-width:1.565;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 35.898947,69.328924 H 79.596961"
+         id="path21549-8" />
+    </g>
+  </g>
+</svg>

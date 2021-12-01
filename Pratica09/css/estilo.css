@@ -1,0 +1,64 @@
+body {
+    background-color: #aaa;
+    margin: 0;
+    padding: 30px;
+}
+.celular {
+    display: none;
+}
+.impressora {
+    display: none;
+}
+@media screen and (max-width: 600px) {
+    body {
+        background-color: #48F;
+        font-size: 1.2em;
+    }
+    .celular {
+        display: block;
+    }
+}
+@media print {
+    .impressora {
+        display: block;
+    }
+}
+
+.animacaodiv {
+    border: 5px solid blue;
+    width: 100px;
+    height: 100px;
+    animation: animarcaixa 3s infinite;
+}
+.animacaodiv2 {
+    width: 100px;
+    height: 100px;
+    animation: pular 2s infinite;
+}
+@keyframes animarcaixa {
+    0% {
+        border-color: red;
+        transform: rotate(0deg);
+    }
+    50% {
+        border-color: green;
+        transform: rotate(180deg);
+    }
+    100% {
+        border-color: yellow;
+        transform: rotate(0deg);
+    }
+}
+
+@keyframes pular {
+    0% {
+        transform: translateY(0px);
+    }
+    50% {
+        transform: translateY(80px);
+        height: 90px;
+    }
+    100% {
+        transform: translateY(0px);
+    }
+}
